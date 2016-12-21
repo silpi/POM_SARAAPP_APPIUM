@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SaraApp Project]">
+  <test name="LoginToTheApplication_AndVerifyNavigationTo_ItemsinWork(failed)">
+    <classes>
+      <class name="com.appium.pom.saraapp.LoginToTheApplication_AndVerifyNavigationTo_ItemsinWork">
+        <methods>
+          <include name="LoginToTheApplication_AndVerifyNavigationTo_ItemsinWork" invocation-numbers="0 1"/>
+          <include name="quit"/>
+        </methods>
+      </class> <!-- com.appium.pom.saraapp.LoginToTheApplication_AndVerifyNavigationTo_ItemsinWork -->
+      <class name="com.appium.pom.saraapp.CheckForTheRespectiveButtonsandEnable_DisaleState_ItemsinWork">
+        <methods>
+          <include name="quit"/>
+        </methods>
+      </class> <!-- com.appium.pom.saraapp.CheckForTheRespectiveButtonsandEnable_DisaleState_ItemsinWork -->
+      <class name="com.appium.pom.saraapp.RecouncilationOfDamagedStamp">
+        <methods>
+          <include name="quit"/>
+        </methods>
+      </class> <!-- com.appium.pom.saraapp.RecouncilationOfDamagedStamp -->
+    </classes>
+  </test> <!-- LoginToTheApplication_AndVerifyNavigationTo_ItemsinWork(failed) -->
+  <test name="RecouncilationOfDamagedStamp(failed)">
+    <classes>
+      <class name="com.appium.pom.saraapp.LoginToTheApplication_AndVerifyNavigationTo_ItemsinWork">
+        <methods>
+          <include name="quit"/>
+        </methods>
+      </class> <!-- com.appium.pom.saraapp.LoginToTheApplication_AndVerifyNavigationTo_ItemsinWork -->
+      <class name="com.appium.pom.saraapp.CheckForTheRespectiveButtonsandEnable_DisaleState_ItemsinWork">
+        <methods>
+          <include name="quit"/>
+        </methods>
+      </class> <!-- com.appium.pom.saraapp.CheckForTheRespectiveButtonsandEnable_DisaleState_ItemsinWork -->
+      <class name="com.appium.pom.saraapp.RecouncilationOfDamagedStamp">
+        <methods>
+          <include name="RecouncilationOfDamagedStamp"/>
+          <include name="quit"/>
+        </methods>
+      </class> <!-- com.appium.pom.saraapp.RecouncilationOfDamagedStamp -->
+    </classes>
+  </test> <!-- RecouncilationOfDamagedStamp(failed) -->
+</suite> <!-- Failed suite [SaraApp Project] -->

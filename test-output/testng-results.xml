@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36553" started-at="2016-12-21T11:41:53Z" finished-at="2016-12-21T11:42:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36553" started-at="2016-12-21T11:41:53Z" finished-at="2016-12-21T11:42:29Z">
+      <class name="com.appium.pom.saraapp.ClickScanStamp">
+        <test-method status="PASS" signature="ClickScanStamp(java.util.Hashtable)[pri:0, instance:com.appium.pom.saraapp.ClickScanStamp@4705439b]" name="ClickScanStamp" duration-ms="32438" started-at="2016-12-21T17:11:53Z" data-provider="getData" finished-at="2016-12-21T17:12:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Password=Secret1!, Runmode=Y, UserName=SaraAppAutomation@yopmail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickScanStamp -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.appium.pom.saraapp.ClickScanStamp@4705439b]" name="quit" is-config="true" duration-ms="4087" started-at="2016-12-21T17:12:25Z" finished-at="2016-12-21T17:12:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.appium.pom.saraapp.ClickScanStamp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

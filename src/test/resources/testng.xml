@@ -1,0 +1,23 @@
+<suite name="SaraApp Project">
+	
+	
+	<test name="LoginToTheApplication_AndVerifyNavigationTo_ItemsinWork" allow-return-values="true">
+		<classes>
+			<class name="com.appium.pom.saraapp.LoginToTheApplication_AndVerifyNavigationTo_ItemsinWork" />
+		</classes>
+	</test>
+	
+	<test name="CheckForTheRespectiveButtonsandEnable_DisaleState_ItemsinWork" allow-return-values="true">
+		<classes>
+			<class name="com.appium.pom.saraapp.CheckForTheRespectiveButtonsandEnable_DisaleState_ItemsinWork" />
+		</classes>
+	</test>
+	
+	<test name="RecouncilationOfDamagedStamp" allow-return-values="true">
+		<classes>
+			<class name="com.appium.pom.saraapp.RecouncilationOfDamagedStamp" />
+		</classes>
+	</test>
+	
+</suite>
+
